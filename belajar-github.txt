@@ -2,3 +2,6 @@ Lorem ipsum dolor sit amet
 lalalal
 lilili
 belajar github 
+
+Edit repository
+membuat commit baru lagi
